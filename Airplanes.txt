@@ -1,0 +1,10 @@
+airbus 380, Emirates, United Arab Emirates, 544 passengers
+airbus 319, easyJet, United States, 156 passengers
+boeing 767, United Airlines, United States, 
+boeing 787, Air Canada, Canada, 330 passengers
+Embraer E175, Azul Brazilian Airlines, Brazil, 86 passengers
+Embraer E190, Azul Brazilian Airlines, Brazil, 106 passengers
+Embraer E195, Azul Brazilian Airlines, Brazil, 118 passengers
+airbus A330, Azul Brazilian Airlines, Brazil, 275 passengers
+airbus A318, Avianca, Brazil, 120 passengers
+

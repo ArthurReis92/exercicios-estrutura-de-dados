@@ -1,0 +1,7 @@
+AD8955,airbus 380,Emirates,Johnson,Houston-Texas,Recife-PE,500
+AV8735,airbus A318,Avianca,Cristiano,Manaus-AM,Recife-PE,115
+AD2888,Embraer E175,Azul Brazilian Airlines,Claudia,Goiania-GO,Recife-PE,80
+AD7953,airbus A330,Azul Brazilian Airlines,Tiago,Porto Alegre-RS,Recife-PE,250
+AD2555,Embraer E190,Azul Brazilian Airlines,Francisco,Teresina-PI,Recife-PE,101
+AV8775,airbus A318,Avianca,William,Salvador-SP,Recife-PE,100
+RD9854,airbus 319,easyJet,James,Dallas-Texas,Recife-PE,142
